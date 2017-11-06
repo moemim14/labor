@@ -10,3 +10,8 @@ Anwesend: Nebel Florian, Mandl Gerhard, Michael Mörth, Moritz Martinak, Mario N
 Abwesend: -
 
 ### Was ist Git? Was ist Github?
+**Git ist eine freie Software, welche zur Verwaltung von Dateien genützt wird.
+Der Sinn von Git ist es, eine Arbeit im Team zu ermöglichen.**
+
+Unterschiede zu anderen Versionsverwaltungen:
+* ABC
